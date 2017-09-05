@@ -36,7 +36,7 @@ Install the R package using the following commands on the R console:
 
 ```
 install.packages("devtools")
-devtools::install_github("twitter/AnomalyDetection")
+devtools::install_github("xinai57/AnomalyDetection")
 library(AnomalyDetection)
 ```
 
