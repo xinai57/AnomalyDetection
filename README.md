@@ -1,3 +1,11 @@
+# make some changes
+new code for installation
+```
+install.packages("devtools")
+devtools::install_github("xinai57/AnomalyDetection", ref = "sto")
+library(AnomalyDetection)
+```
+
 # AnomalyDetection R package
 
 [![Build Status](https://travis-ci.org/twitter/AnomalyDetection.png)](https://travis-ci.org/twitter/AnomalyDetection)
